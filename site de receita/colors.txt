@@ -1,0 +1,11 @@
+cores
+
+main-color: #ffecd6
+
+
+main2-color: #80574b
+
+text-color: #807571
+
+button-color: #ffaf96
+
